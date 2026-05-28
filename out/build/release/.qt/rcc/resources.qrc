@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="../resources/styles/dark.qss">C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/../resources/styles/dark.qss</file>
+    <file alias="../resources/styles/light.qss">C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/../resources/styles/light.qss</file>
+    <file alias="../resources/styles/blue.qss">C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/../resources/styles/blue.qss</file>
+    <file alias="docs/README.md">C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/docs/README.md</file>
+  </qresource>
+</RCC>
+

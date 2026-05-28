@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/icons">
+    <file alias="../resources/icons/app.ico">C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/../resources/icons/app.ico</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,102 @@
+﻿NeuralNetworkVisualizer/
+│
+├── CMakeLists.txt
+├── README.md
+├── .gitignore
+│
+├── external/
+│   └── eigen/
+│
+├── resources/
+│   ├── datasets/
+│   │   └── mnist/
+│   │
+│   ├── icons/
+│   │
+│   └── styles/
+│
+├── src/
+│   │
+│   ├── main.cpp
+│   │
+│   ├── app/
+│   │   ├── MainWindow.h
+│   │   ├── MainWindow.cpp
+│   │   ├── MainWindow.ui
+│   │   │
+│   │   ├── panels/
+│   │   │   ├── ControlPanel.h
+│   │   │   ├── MetricsPanel.h
+│   │   │   └── NetworkPanel.h
+│   │   │
+│   │   └── widgets/
+│   │       ├── LossGraphWidget.h
+│   │       ├── NeuralNetworkView.h
+│   │       └── DigitCanvasWidget.h
+│   │
+│   ├── core/
+│   │   │
+│   │   ├── math/
+│   │   │   ├── Matrix.h
+│   │   │   ├── Random.h
+│   │   │   └── MathUtils.h
+│   │   │
+│   │   ├── layers/
+│   │   │   ├── Layer.h
+│   │   │   ├── DenseLayer.h
+│   │   │   └── DenseLayer.cpp
+│   │   │
+│   │   ├── activations/
+│   │   │   ├── Activation.h
+│   │   │   ├── ReLU.h
+│   │   │   ├── Sigmoid.h
+│   │   │   ├── Softmax.h
+│   │   │   └── Tanh.h
+│   │   │
+│   │   ├── losses/
+│   │   │   ├── Loss.h
+│   │   │   ├── MSELoss.h
+│   │   │   └── CrossEntropyLoss.h
+│   │   │
+│   │   ├── optimizers/
+│   │   │   ├── Optimizer.h
+│   │   │   ├── SGDOptimizer.h
+│   │   │   └── AdamOptimizer.h
+│   │   │
+│   │   ├── model/
+│   │   │   ├── SequentialModel.h
+│   │   │   └── SequentialModel.cpp
+│   │   │
+│   │   └── training/
+│   │       ├── Trainer.h
+│   │       ├── Trainer.cpp
+│   │       ├── Metrics.h
+│   │       └── TrainingHistory.h
+│   │
+│   ├── datasets/
+│   │   ├── Dataset.h
+│   │   ├── MNISTLoader.h
+│   │   ├── MNISTLoader.cpp
+│   │   ├── Batch.h
+│   │   └── DataSample.h
+│   │
+│   ├── visualization/
+│   │   ├── NeuralNetworkScene.h
+│   │   ├── NeuralNetworkScene.cpp
+│   │   │
+│   │   ├── NeuronItem.h
+│   │   ├── ConnectionItem.h
+│   │   │
+│   │   ├── WeightColorMapper.h
+│   │   └── ActivationAnimator.h
+│   │
+│   ├── threading/
+│   │   ├── TrainingWorker.h
+│   │   └── TrainingWorker.cpp
+│   │
+│   └── utils/
+│       ├── Logger.h
+│       ├── Timer.h
+│       └── FileUtils.h
+│
+└── build/

@@ -1,0 +1,9 @@
+C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/out/build/debug/CMakeFiles/NeuralNetworkVisualizer.dir
+C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/out/build/debug/CMakeFiles/NeuralNetworkVisualizer_lupdate.dir
+C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/out/build/debug/CMakeFiles/update_translations.dir
+C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/out/build/debug/CMakeFiles/NeuralNetworkVisualizer_lrelease.dir
+C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/out/build/debug/CMakeFiles/release_translations.dir
+C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/out/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/out/build/debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/out/build/debug/CMakeFiles/NeuralNetworkVisualizer_autogen_timestamp_deps.dir
+C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/out/build/debug/CMakeFiles/NeuralNetworkVisualizer_autogen.dir

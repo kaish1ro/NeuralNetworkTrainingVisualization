@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NeuralNetworkVisualizer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "NeuralNetworkVisualizer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NeuralNetworkVisualizer-Release-f4ce29a0fa76077b4f95.json",
+					"name" : "NeuralNetworkVisualizer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NeuralNetworkVisualizer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NeuralNetworkVisualizer_autogen-Release-8ce434163dbd009ee496.json",
+					"name" : "NeuralNetworkVisualizer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NeuralNetworkVisualizer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NeuralNetworkVisualizer_autogen_timestamp_deps-Release-cf92a77bda2823422cf5.json",
+					"name" : "NeuralNetworkVisualizer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NeuralNetworkVisualizer_lrelease::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NeuralNetworkVisualizer_lrelease-Release-d070d38a772e84fc148f.json",
+					"name" : "NeuralNetworkVisualizer_lrelease",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NeuralNetworkVisualizer_lupdate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NeuralNetworkVisualizer_lupdate-Release-9a708737029ca03f76b2.json",
+					"name" : "NeuralNetworkVisualizer_lupdate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "release_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-release_translations-Release-0560ec65137357ccc2ce.json",
+					"name" : "release_translations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "update_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-update_translations-Release-bf3f7b19dfe763dd9d11.json",
+					"name" : "update_translations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization/out/build/release",
+		"source" : "C:/Users/Alex5/Documents/NeuralNetworkTrainingVisualization"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
